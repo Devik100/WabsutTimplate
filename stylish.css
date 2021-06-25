@@ -1,0 +1,18 @@
+img{
+    width: 625;
+    height: 700;
+    transition: transform .2s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+iframe{
+    width: 1500;
+    height: 1000;
+}
+p{
+    font-size: 60;
+}
+h3{
+    font-size: 100;
+}
